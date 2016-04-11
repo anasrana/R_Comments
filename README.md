@@ -1,30 +1,29 @@
-Idiomatic CSS Comments for Sublime Text
+Sassy Comments for Sublime Text 
 =============================================
 
-Idiomatic CSS style comments for Sublime Text.  Comment format based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [@necolas](https://github.com/necolas).
-
-Thanks to [@scottyeck](https://github.com/scottyeck) there are [Sass style comments](#sass-style-comments) also available.
+This package is forked from https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets. The reason it was created is because 
+I simply did not like the amount of space left under each block that was created.
 
 ## Install
 
-You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for Idiomatic CSS Comments.
+You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for Sassy Comments.
 
 ## Usage
 
 There are several shortcuts for the different comment blocks.
 
 ### Basic Comment
-Enter the shortcut `com-basic` followed by the `tab` key
+Enter the shortcut `sc` followed by the `tab` key
 
-``` css
-/* This is a basic comment */
+``` sass
+// This is a basic comment
 ```
 
 ### Section Comment
 
-Enter the shortcut `com-section` followed by the `tab` key
+Enter the shortcut `scsec` followed by the `tab` key
 
-``` css
+``` sass
 /* ==========================================================================
    This is a Section Comment
    ========================================================================== */
@@ -32,9 +31,9 @@ Enter the shortcut `com-section` followed by the `tab` key
 
 ### Sub-Section Comment
 
-Enter the shortcut `com-sub` followed by the `tab` key
+Enter the shortcut `scsub` followed by the `tab` key
 
-``` css
+``` sass
 /*
    This is a sub-section comment
    ========================================================================== */
@@ -42,9 +41,9 @@ Enter the shortcut `com-sub` followed by the `tab` key
 
 ### Long Comment
 
-Enter the shortcut `com-long` followed by the `tab` key
+Enter the shortcut `sclong` followed by the `tab` key
 
-``` css
+``` sass
 /**
  * Short description using Doxygen-style comment format
  *
@@ -64,9 +63,9 @@ Enter the shortcut `com-long` followed by the `tab` key
 ```
 
 ### Todo List Comment
-Enter the shortcut `com-todo` followed by the `tab` key
+Enter the shortcut `sctodo` followed by the `tab` key
 
-``` css
+``` sass
 /**
  * TODO:
  *
@@ -75,15 +74,3 @@ Enter the shortcut `com-todo` followed by the `tab` key
  *
  */
 ```
-
-### Sass-style Comments
-
-Each of the comment-types listed above can be rendered in the form of a Sass-style comment using the shortcuts listed below.
-
-* Basic Comment (Sass) - `com-sass-basic`
-* Section Comment (Sass) - `com-sass-section`
-* Sub-Section Comment (Sass) - `com-sass-sub`
-* Long Comment (Sass) - `com-sass-long`
-* Todo List Comment (Sass) - `com-sass-todo`
-
-As before, each shortcut should be followed by the `tab` key.
