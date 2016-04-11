@@ -26,7 +26,7 @@ Enter the shortcut `////` followed by the `tab` key
 
 ### Sub-Section Comment
 
-Enter the shortcut `////.` followed by the `tab` key
+Enter the shortcut `///.` followed by the `tab` key
 
 ``` sass
 //
