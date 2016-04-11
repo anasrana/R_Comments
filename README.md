@@ -2,7 +2,9 @@ Sassy Comments for Sublime Text
 =============================================
 
 This package is forked from https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets. The reason it was created is because 
-I simply did not like the amount of space left under each block that was created.
+I simply did not like the amount of space left under each block that was created, and I knew there had to be a more intuitive way to choose what kind of comment you want to insert.
+
+Eurieka! Why not simply append an extra forward slash to denote what kind of comment you want to use? Since you already hit the key twice to make a basic SASS comment, why not hit it once or twice more to change the type of comment?
 
 ## Install
 
