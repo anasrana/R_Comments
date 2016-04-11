@@ -1,13 +1,12 @@
 <snippet>
-	<content><![CDATA[
+	<content>
+<![CDATA[
 //
 // TODO
 //
 // => ${1}
-
-${2}
-
-]]></content>
-	<tabTrigger>com-sass-todo</tabTrigger>
-	<description>Idiomatic CSS - (Sass) Todo Comment</description>
+]]>
+	</content>
+	<tabTrigger>sctodo</tabTrigger>
+	<description>Sassy Comments - TODO Comment Block</description>
 </snippet>
