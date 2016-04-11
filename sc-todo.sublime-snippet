@@ -1,12 +1,10 @@
 <snippet>
-	<content>
-<![CDATA[
+	<content><![CDATA[
 //
 // TODO
 //
 // => ${1}
-]]>
-	</content>
-	<tabTrigger>sctodo</tabTrigger>
+]]></content>
+	<tabTrigger>//-</tabTrigger>
 	<description>Sassy Comments - TODO Comment Block</description>
 </snippet>

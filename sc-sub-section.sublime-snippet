@@ -1,11 +1,9 @@
 <snippet>
-	<content>
-<![CDATA[
+	<content><![CDATA[
 //
 // ${1}
 // --------------------------------------------------------------------------
-]]>
-	</content>
-	<tabTrigger>scsub</tabTrigger>
+]]></content>
+	<tabTrigger>////.</tabTrigger>
 	<description>Sassy Comments - Sub-Section Comment Block</description>
 </snippet>
