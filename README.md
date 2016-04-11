@@ -35,7 +35,7 @@ Enter the shortcut `////.` followed by the `tab` key
 ```
 
 ### Todo List Comment
-Enter the shortcut `sctodo` followed by the `tab` key
+Enter the shortcut `//,` followed by the `tab` key
 
 ``` sass
 //
