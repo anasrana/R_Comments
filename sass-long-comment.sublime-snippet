@@ -3,8 +3,7 @@
 //
 // ${1}
 //
-
 ]]></content>
-	<tabTrigger>com-sass-long</tabTrigger>
-	<description>Idiomatic CSS - (Sass) Longer Descriptor Comment</description>
+	<tabTrigger>//l</tabTrigger>
+	<description>Sassy Comments - Long Comment Block</description>
 </snippet>
