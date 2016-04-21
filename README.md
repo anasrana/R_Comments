@@ -7,7 +7,7 @@ This is what I envisioned for a Sublime package, and what I set out to create. I
 
 Although Sass was the reason for this package, technically these comments will work for any language that supports single line comments with `//`. (Hint: There's a lot of them.)
 
-This package is forked from https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets. I created this package because 1) I didn't want to type out some long string to form a comment, and 2) I didn't like the amount of extra space the package put between where I inserted comments and my code.
+This package is forked from https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets.
 
 ## Install
 
