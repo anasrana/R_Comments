@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-//
-// ${1}
-// --------------------------------------------------------------------------
+#
+# ${1}
+# --------------------------------------------------------------------------
 ]]></content>
-	<tabTrigger>///.</tabTrigger>
-	<description>Sassy Comments - Sub-Section Comment Block</description>
+	<tabTrigger>###.</tabTrigger>
+	<description>R Comments - Sub-Section Comment Block</description>
 </snippet>

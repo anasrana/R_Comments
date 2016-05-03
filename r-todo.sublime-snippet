@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-//
-// TODO
-//
-// => ${1}
+#
+# TODO
+#
+# => ${1}
 ]]></content>
-	<tabTrigger>//,</tabTrigger>
-	<description>Sassy Comments - TODO Comment Block</description>
+	<tabTrigger>##,</tabTrigger>
+	<description>R Comments - TODO Comment Block</description>
 </snippet>
